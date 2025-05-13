@@ -68,6 +68,3 @@ Disha / https://github.com/dishaaa5
 
 ---
 
-## 📝 License
-
-This project is open source and free to use for learning purposes.
